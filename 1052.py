@@ -1,0 +1,25 @@
+n1 = int(input())
+if(n1==1):
+    print('January')
+elif(n1==2):
+    print('February')
+elif(n1==3):
+    print('March')
+elif(n1==4):
+    print('April')
+elif(n1==5):
+    print('May')
+elif(n1==6):
+    print('June')
+elif(n1==7):
+    print('July')
+elif(n1==8):
+    print('August')
+elif(n1==9):
+    print('September')
+elif(n1==10):
+    print('October')
+elif(n1==11):
+    print('November')
+elif(n1==12):
+    print('December')
